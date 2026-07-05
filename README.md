@@ -9,7 +9,8 @@ A simple and responsive **Notes App** built using **HTML**, **CSS**, and **JavaS
 
 
 
-![Notes App Screenshot](images/screenshot.png)
+![Notes App Screenshot](images/design1.png)
+![Notes App Screenshot](images/design2.png)
 
 
 ---
