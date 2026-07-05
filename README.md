@@ -95,6 +95,7 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Zain Ul Abidin**
+
 GitHub: https://github.com/zain-dev-ai-ml/: 
 
 If you like this project, don't forget to ⭐ star the repository!
